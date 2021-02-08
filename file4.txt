@@ -1,6 +1,1 @@
-this is file1
-
-
-sa1
-clear
-exit
+this is file4
